@@ -1,7 +1,7 @@
 /*
-Name: Your Name
-PRN: 1234567890
-Batch: SY BTech AIML B1
+Name: Nidhi Pandit
+PRN: 23070126081
+Batch:B1
 */
 
 import java.util.Scanner;
