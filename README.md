@@ -1,6 +1,6 @@
 # Student Data Entry with MySQL (via JDBC)
 
-## Overview
+## Overview 
 Java-based Student Management system that:
 - Creates DB & table dynamically using JDBC
 - Stores data using MySQL backend
