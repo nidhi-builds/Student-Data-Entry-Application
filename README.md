@@ -21,4 +21,4 @@ Java-based Student Management system that:
 - JDBC
 
 ## GitHub
-[Your GitHub Repository Link Here]
+(https://github.com/nidhi-builds/Student-Data-Entry-Application.git)
